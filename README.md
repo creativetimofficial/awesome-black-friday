@@ -25,9 +25,21 @@ Hurry up and grab our Black Friday deals!
 🎁  [Ultimate Stack | Up to 90% OFF 🔥- 63 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/ultimate-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+ultimate)
 
 ### Other cool Black Friday Deals for Devs
+🎁 [Themesberg | 90% OFF 🔥- 9 Premium Bootstrap Themes](https://a.paddle.com/v2/click/113942/122967?link=3071)
+
+🎁 [AppSeed | 72% OFF 🔥- 5 Premium Dashboards](https://appseed.us/bundles/black-friday)
+
+🎁 [Bluehost | up to 60% OFF 🔥- Wordpress Hosting Plans](https://www.bluehost.com/track/creativetim/)
+
+🎁 [Instamobile | up to 90% OFF 🔥- 15+ Fully Functional Mobile Apps](https://www.instamobile.io/)
+
 🎁 [WrapPixel | 50% OFF 🔥- all UI Kits and Dashboards](https://www.wrappixel.com/)
 
 🎁 [Athemes | 30% OFF 🔥- all Wordpress Themes premium plans](http://athemes.com/)
+
+🎁 [BootstrapDash | 25% OFF 🔥- 50+ Premium Bootstrap Templates](BootstrapDash – Bootstrap Templates and UI Kits – 25% OFF)
+
+🎁 [Themexpert |up to 70% OFF 🔥- all Joomla Templates](https://www.themexpert.com/?utm_campaign=blackfriday2020&utm_medium=blog&utm_source=CreativeTim)
 
 🎁 [Mockplus | up to 70% OFF 🔥- all Product Design plans](http://www.mockplus.com/)
 
@@ -35,4 +47,6 @@ Hurry up and grab our Black Friday deals!
 
 🎁 [Adobe | 25% OFF 🔥- Creative Cloud Plans](https://www.adobe.com/creativecloud.html)
 
-🎁 [Bluehost | up to 60% OFF 🔥- Wordpress Hosting Plans](https://www.bluehost.com/track/creativetim/)
+🎁 [Nucleo | 25% OFF 🔥– all Vector Icons plans](https://nucleoapp.com/?ref=1712)
+
+
