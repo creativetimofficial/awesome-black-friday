@@ -2,7 +2,7 @@
 
 ![Creative Tim Black Friday](https://i.imgur.com/LFtlD0u.png)
 
-Black Friday at Creative Tim kicks off! 🖤🖤
+Black Friday at [Creative Tim](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=nov+bf+general) kicks off! 🖤🖤
 Start your development with Creative Tim's UI tools at the best price of the year! Save up to 90% OFF by choosing one of this special front-end and back-end Stacks that will save you time and money.
 
 All our special Black Friday Stacks come with Designer Files, 6 Months Support included, and a huge number of fully coded components. There is no need for a coupon code. All you need to do is visit [Creative Tim website](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=nov+bf+general) and choose the one that best suits your needs.
