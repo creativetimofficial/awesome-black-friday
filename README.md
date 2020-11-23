@@ -29,9 +29,9 @@ Hurry up and grab our Black Friday deals!
 
 🎁 [AppSeed | 72% OFF 🔥- 5 Premium Dashboards](https://appseed.us/bundles/black-friday)
 
-🎁 [Bluehost | up to 60% OFF 🔥- Wordpress Hosting Plans](https://www.bluehost.com/track/creativetim/)
+🎁 [Bluehost | Up to 60% OFF 🔥- Wordpress Hosting Plans](https://www.bluehost.com/track/creativetim/)
 
-🎁 [Instamobile | up to 90% OFF 🔥- 15+ Fully Functional Mobile Apps](https://www.instamobile.io/)
+🎁 [Instamobile | Up to 90% OFF 🔥- 15+ Fully Functional Mobile Apps](https://www.instamobile.io/)
 
 🎁 [WrapPixel | 50% OFF 🔥- all UI Kits and Dashboards](https://www.wrappixel.com/)
 
@@ -39,9 +39,9 @@ Hurry up and grab our Black Friday deals!
 
 🎁 [BootstrapDash | 25% OFF 🔥- 50+ Premium Bootstrap Templates](https://www.bootstrapdash.com/)
 
-🎁 [Themexpert |up to 70% OFF 🔥- all Joomla Templates](https://www.themexpert.com/?utm_campaign=blackfriday2020&utm_medium=blog&utm_source=CreativeTim)
+🎁 [Themexpert | Up to 70% OFF 🔥- all Joomla Templates](https://www.themexpert.com/?utm_campaign=blackfriday2020&utm_medium=blog&utm_source=CreativeTim)
 
-🎁 [Mockplus | up to 70% OFF 🔥- all Product Design plans](http://www.mockplus.com/)
+🎁 [Mockplus | Up to 70% OFF 🔥- all Product Design plans](http://www.mockplus.com/)
 
 🎁 [Bootstrapious | 40% OFF 🔥- all premium Bootstrap Templates](https://bootstrapious.com/)
 
