@@ -37,7 +37,7 @@ Hurry up and grab our Black Friday deals!
 
 🎁 [Athemes | 30% OFF 🔥- all Wordpress Themes premium plans](http://athemes.com/)
 
-🎁 [BootstrapDash | 25% OFF 🔥- 50+ Premium Bootstrap Templates](BootstrapDash – Bootstrap Templates and UI Kits – 25% OFF)
+🎁 [BootstrapDash | 25% OFF 🔥- 50+ Premium Bootstrap Templates](https://www.bootstrapdash.com/)
 
 🎁 [Themexpert |up to 70% OFF 🔥- all Joomla Templates](https://www.themexpert.com/?utm_campaign=blackfriday2020&utm_medium=blog&utm_source=CreativeTim)
 
