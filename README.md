@@ -12,17 +12,27 @@ Hurry up and grab our Black Friday deals!
 
 ### Creative Tim - Black Friday Stacks
 
-🎁  [React Stack | Up to 90% OFF 🔥- 17 premium UI Kits and Dashboards] (https://www.creative-tim.com/stacks/react-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+react)
+🎁  [React Stack | Up to 90% OFF 🔥- 17 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/react-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+react)
+
 🎁  [Bootstrap Stack | Up to 90% OFF 🔥- 19 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/bootstrap-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+bootstrap)
+
 🎁  [Angular Stack | Up to 90% OFF 🔥- 10 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/angular-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+angular)
-🎁  [Vue.js Stack | Up to 90% OFF 🔥- 15 premium UI Kits and Dashboards] (https://www.creative-tim.com/stacks/vuejs-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+vuejs)
+
+🎁  [Vue.js Stack | Up to 90% OFF 🔥- 15 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/vuejs-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+vuejs)
+
 🎁  [Laravel Stack | Up to 90% OFF 🔥- 9 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/laravel-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+laravel)
+
 🎁  [Ultimate Stack | Up to 90% OFF 🔥- 63 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/ultimate-stack-bf?utm_medium=social&utm_source=github&utm_campaign=nov+bf+ultimate)
 
 ### Other cool Black Friday Deals for Devs
 🎁 [WrapPixel | 50% OFF 🔥- all UI Kits and Dashboards](https://www.wrappixel.com/)
+
 🎁 [Athemes | 30% OFF 🔥- all Wordpress Themes premium plans](http://athemes.com/)
+
 🎁 [Mockplus | up to 70% OFF 🔥- all Product Design plans](http://www.mockplus.com/)
+
 🎁 [Bootstrapious | 40% OFF 🔥- all premium Bootstrap Templates](https://bootstrapious.com/)
+
 🎁 [Adobe | 25% OFF 🔥- Creative Cloud Plans](https://www.adobe.com/creativecloud.html)
+
 🎁 [Bluehost | up to 60% OFF 🔥- Wordpress Hosting Plans](https://www.bluehost.com/track/creativetim/)
