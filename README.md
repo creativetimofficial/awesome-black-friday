@@ -1,6 +1,6 @@
 # Black Friday Deals 2020
 
-[Creative Tim Black Friday](https://i.imgur.com/LFtlD0u.png)
+![Creative Tim Black Friday](https://i.imgur.com/LFtlD0u.png)
 
 Black Friday at Creative Tim kicks off! 🖤🖤
 Start your development with Creative Tim's UI tools at the best price of the year! Save up to 90% OFF by choosing one of this special front-end and back-end Stacks that will save you time and money.
