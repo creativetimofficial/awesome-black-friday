@@ -49,4 +49,6 @@ Hurry up and grab our Black Friday deals!
 
 🎁 [Nucleo | 25% OFF 🔥– all Vector Icons plans](https://nucleoapp.com/?ref=1712)
 
+🎁 [Designmodo | 30% OFF 🔥– Website and Email Design Tools](https://designmodo.com/blackfriday/?u=4176)
+
 
