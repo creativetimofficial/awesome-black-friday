@@ -10,7 +10,7 @@ All our special Black Friday Stacks come with Designer Files, 6 Months Support i
 Hurry up and grab our Black Friday deals!
 
 
-### Creative Tim - Black Friday Stacks
+### Creative Tim - Black Friday Stacks (Cyber Monday including)
 
 🎁  [React Stack | Up to 90% OFF 🔥- 17 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/react-stack-bf?utm_medium=social&utm_source=github&utm_campaign=bf+2020+react)
 
