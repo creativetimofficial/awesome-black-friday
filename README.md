@@ -1,4 +1,4 @@
-# Black Friday Deals 2020 
+# Black Friday Deals 2020 + Cyber Monday
 
 [![Creative Tim Black Friday](https://i.imgur.com/LFtlD0u.png)](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf+2020+general)
 
