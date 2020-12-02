@@ -1,4 +1,4 @@
-# Black Friday Deals 2020
+# Black Friday Deals 2020 
 
 [![Creative Tim Black Friday](https://i.imgur.com/LFtlD0u.png)](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf+2020+general)
 
@@ -52,3 +52,14 @@ Hurry up and grab our Black Friday deals!
 🎁 [Designmodo | 30% OFF 🔥– Website and Email Design Tools](https://designmodo.com/blackfriday/?u=4176)
 
 
+### Cool Cyber Monday Deals for Devs
+
+🎁 [Themexpert | Up to 70% OFF 🔥- Single Template Purchase](https://www.themexpert.com/?utm_campaign=blackfriday2020&utm_medium=blog&utm_source=CreativeTim)
+
+🎁 [Bootstrapious | 40% OFF 🔥- all premium Bootstrap Templates](https://bootstrapious.com/)
+
+🎁 [Nucleo | 25% OFF 🔥– all Vector Icons plans](https://nucleoapp.com/?ref=1712)
+
+🎁 [Designmodo | 30% OFF 🔥– Website and Email Design Tools](https://designmodo.com/blackfriday/?u=4176)
+
+🎁 [WrapPixel | 50% OFF 🔥- all UI Kits and Dashboards](https://www.wrappixel.com/)
