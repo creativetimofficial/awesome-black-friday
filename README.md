@@ -1,65 +1,51 @@
-# Black Friday Deals 2020 + Cyber Monday
+# Black Friday Deals 2021 + Cyber Monday
 
-[![Creative Tim Black Friday](https://i.imgur.com/LFtlD0u.png)](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf+2020+general)
+[![Creative Tim Black Friday](https://blogct.creative-tim.com/blog/content/images/2021/11/the-ultimate-stack.jpg)](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
 
-Black Friday at [Creative Tim](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf+2020+general) kicks off! 🖤🖤
-Start your development with Creative Tim's UI tools at the best price of the year! Save up to 90% OFF by choosing one of this special front-end and back-end Stacks that will save you time and money.
+Black Friday at [Creative Tim](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021) kicks off! 🖤🖤
+Start your development with Creative Tim's UI tools at the best price of the year! Save up to 80% OFF by choosing one of this special front-end and back-end Stacks that will save you time and money.
 
-All our special Black Friday Stacks come with Designer Files, 6 Months Support included, and a huge number of fully coded components. There is no need for a coupon code. All you need to do is visit [Creative Tim website](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf+2020+general) and choose the one that best suits your needs.
+Would you like to access all our Premium products and save weeks of work? Get [The Ultimate Stack](https://www.creative-tim.com/product/buy/bundle/ultimate-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021), our best Stack for this season, and take advantage of 100+ UI kits, Admin, and Mobile Templates based on the most popular front-end and back-end technologies. 
+
+All our special Black Friday Stacks come with Designer Files, Tech Support included, and a huge number of fully coded components. There is no need for a coupon code. All you need to do is visit [Creative Tim website](https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021) and choose the one that best suits your needs.
 
 Hurry up and grab our Black Friday deals!
 
 
 ### Creative Tim - Black Friday Stacks (Cyber Monday including)
 
-🎁  [React Stack | Up to 90% OFF 🔥- 17 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/react-stack-bf?utm_medium=social&utm_source=github&utm_campaign=bf+2020+react)
+🎁  [The Ultimate Stack | Up to 80% OFF 🔥- 63 premium UI Kits and Dashboards]( https://www.creative-tim.com/product/buy/bundle/ultimate-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
 
-🎁  [Bootstrap Stack | Up to 90% OFF 🔥- 19 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/bootstrap-stack-bf?utm_medium=social&utm_source=github&utm_campaign=bf+2020+bootstrap)
+🎁  [React Stack | Up to 80% OFF 🔥- 23 premium UI Kits and Dashboards](https://www.creative-tim.com/product/buy/bundle/react-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
 
-🎁  [Angular Stack | Up to 90% OFF 🔥- 10 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/angular-stack-bf?utm_medium=social&utm_source=github&utm_campaign=bf+2020+angular)
+🎁  [Bootstrap Stack | Up to 80% OFF 🔥- 23 premium UI Kits and Dashboards](https://www.creative-tim.com/product/buy/bundle/bootstrap-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
 
-🎁  [Vue.js Stack | Up to 90% OFF 🔥- 15 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/vuejs-stack-bf?utm_medium=social&utm_source=github&utm_campaign=bf+2020+vuejs)
+🎁  [Angular Stack | Up to 80% OFF 🔥- 10 premium UI Kits and Dashboards](https://www.creative-tim.com/product/buy/bundle/angular-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
 
-🎁  [Laravel Stack | Up to 90% OFF 🔥- 9 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/laravel-stack-bf?utm_medium=social&utm_source=github&utm_campaign=bf+2020+laravel)
+🎁  [Vue.js Stack | Up to 80% OFF 🔥- 17 premium UI Kits and Dashboards]( https://www.creative-tim.com/product/buy/bundle/vuejs-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
 
-🎁  [Ultimate Stack | Up to 90% OFF 🔥- 63 premium UI Kits and Dashboards](https://www.creative-tim.com/stacks/ultimate-stack-bf?utm_medium=social&utm_source=github&utm_campaign=bf+2020+ultimate)
+🎁  [Laravel Stack | Up to 80% OFF 🔥- 17 premium UI Kits and Dashboards](https://www.creative-tim.com/product/buy/bundle/laravel-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
+
+🎁  [Mobile Stack | Up to 80% OFF 🔥- 7 premium UI Kits and Dashboards](https://www.creative-tim.com/product/buy/bundle/mobile-stack-bf-2021?utm_medium=social&utm_source=github&utm_campaign=awesome+black+friday+2021)
 
 ### Other cool Black Friday Deals for Devs
-🎁 [Themesberg | 90% OFF 🔥- 9 Premium Bootstrap Themes](https://a.paddle.com/v2/click/113942/122967?link=3071)
+🎁 [Loopple| 90% OFF 🔥- Bootstrap Dashboard Builder](https://www.loopple.com/)
 
-🎁 [AppSeed | 72% OFF 🔥- 5 Premium Dashboards](https://appseed.us/bundles/black-friday)
+🎁 [Themesberg | 90% OFF 🔥- 10 Premium Tailwind CSS, Bootstrap 5, React.js & Figma Themes](https://a.paddle.com/v2/click/113942/122967?link=3531)
+
+🎁 [AppSeed | 50% OFF 🔥- All Fullstack Products](https://appseed.us/bundles/black-friday)
 
 🎁 [Bluehost | Up to 60% OFF 🔥- Wordpress Hosting Plans](https://www.bluehost.com/track/creativetim/)
 
-🎁 [Instamobile | Up to 90% OFF 🔥- 15+ Fully Functional Mobile Apps](https://www.instamobile.io/)
+🎁 [Instamobile | Up to 90% OFF 🔥- iOS Mobile Templates Mega Bundle](https://www.instamobile.io/)
 
-🎁 [WrapPixel | 50% OFF 🔥- all UI Kits and Dashboards](https://www.wrappixel.com/)
+🎁 [WrapPixel | 95% OFF 🔥- 25+ Premium Templates Bundle](https://www.wrappixel.com/)
 
-🎁 [Athemes | 30% OFF 🔥- all Wordpress Themes premium plans](http://athemes.com/)
+🎁 [Mockplus | Up to 72% OFF 🔥- all Product Design plans](http://www.mockplus.com/)
 
-🎁 [BootstrapDash | 25% OFF 🔥- 50+ Premium Bootstrap Templates](https://www.bootstrapdash.com/)
+🎁 [Adobe | 40% OFF 🔥- Creative Cloud Plans](https://www.adobe.com/creativecloud.html)
 
-🎁 [Themexpert | Up to 70% OFF 🔥- all Joomla Templates](https://www.themexpert.com/?utm_campaign=blackfriday2020&utm_medium=blog&utm_source=CreativeTim)
+🎁 [Vue School | 40% OFF 🔥– Premium Vue.js Tutorials](https://vueschool.io/sales/blackfriday?ref=creativetim)
 
-🎁 [Mockplus | Up to 70% OFF 🔥- all Product Design plans](http://www.mockplus.com/)
+🎁 [TemplateMonster | 55% OFF 🔥– All Premium Website Themes](https://www.templatemonster.com/sale/?sort=bestsellers?aff=creativetim&utm_campaign=blackfriday2021&utm_source=creativetim&utm_medium=referral)
 
-🎁 [Bootstrapious | 40% OFF 🔥- all premium Bootstrap Templates](https://bootstrapious.com/)
-
-🎁 [Adobe | 25% OFF 🔥- Creative Cloud Plans](https://www.adobe.com/creativecloud.html)
-
-🎁 [Nucleo | 25% OFF 🔥– all Vector Icons plans](https://nucleoapp.com/?ref=1712)
-
-🎁 [Designmodo | 30% OFF 🔥– Website and Email Design Tools](https://designmodo.com/blackfriday/?u=4176)
-
-
-### Cool Cyber Monday Deals for Devs
-
-🎁 [Themexpert | Up to 70% OFF 🔥- Single Template Purchase](https://www.themexpert.com/?utm_campaign=blackfriday2020&utm_medium=blog&utm_source=CreativeTim)
-
-🎁 [Bootstrapious | 40% OFF 🔥- all premium Bootstrap Templates](https://bootstrapious.com/)
-
-🎁 [Nucleo | 25% OFF 🔥– all Vector Icons plans](https://nucleoapp.com/?ref=1712)
-
-🎁 [Designmodo | 30% OFF 🔥– Website and Email Design Tools](https://designmodo.com/blackfriday/?u=4176)
-
-🎁 [WrapPixel | 50% OFF 🔥- all UI Kits and Dashboards](https://www.wrappixel.com/)
